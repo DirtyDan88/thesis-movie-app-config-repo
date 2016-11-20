@@ -1,0 +1,3 @@
+service:
+  integration:
+    wikipediaapi: https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&explaintext&exintro
