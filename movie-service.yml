@@ -1,0 +1,3 @@
+service:
+  integration:
+    omdbapi: http://www.omdbapi.com/?y=&plot=short&r=json
